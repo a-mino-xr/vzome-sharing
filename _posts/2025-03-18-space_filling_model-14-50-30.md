@@ -1,0 +1,29 @@
+---
+title: space_filling_model
+description: A 3D design created in vZome.  Use your mouse or touch to interact.
+image: https://a-mino-xr.github.io/vzome-sharing/2025/03/18/14-50-30-space_filling_model/space_filling_model.png
+published: true
+layout: vzome
+---
+
+{% comment %}
+ - [***web page generated from this source***](<https://a-mino-xr.github.io/vzome-sharing/2025/03/18/space_filling_model-14-50-30.html>)
+ - [data assets and more info](<https://github.com/a-mino-xr/vzome-sharing/tree/main/2025/03/18/14-50-30-space_filling_model/>)
+ 
+{% endcomment %}
+
+A 3D design created in vZome.  Use your mouse or touch to interact.
+
+<figure style="width: 87%; margin: 5%">
+  
+  
+  <vzome-viewer style="width: 100%; height: 60dvh" 
+        src="https://a-mino-xr.github.io/vzome-sharing/2025/03/18/14-50-30-space_filling_model/space_filling_model.vZome" >
+    <img  style="width: 100%"
+        src="https://a-mino-xr.github.io/vzome-sharing/2025/03/18/14-50-30-space_filling_model/space_filling_model.png" >
+  </vzome-viewer>
+
+  <figcaption style="text-align: center; font-style: italic;">
+    space_filling_model
+  </figcaption>
+</figure>
